@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "62eff028-33b9-3805-37f3-4a1714140b46",
+  "instructors": {
+    "content": [
+      "04493049-18e3-f456-8683-6c433f9920a9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "412b72b7-2a58-f79b-bd36-712b8db1e790",
+    "website": "17-265-public-opinion-and-american-democracy-spring-2007"
+  },
+  "course_title": "Public Opinion and American Democracy",
+  "course_description": "This course will examine public opinion and assess its place in the American political system. The course will emphasize both how citizens' thinking about politics is shaped and the role of public opinion in political campaigns, elections, and government.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.265",
+  "course_image_thumbnail": {
+    "content": "89df2479-ee0c-78b0-dc53-1591081a8346",
+    "website": "17-265-public-opinion-and-american-democracy-spring-2007"
+  },
+  "learning_resource_types": [],
+  "site_uid": "7548b3ee-6bb6-458f-bb52-a65b5e8e3439",
+  "site_short_id": "17.265-spring-2007",
+  "title": "Course Metadata"
+}
